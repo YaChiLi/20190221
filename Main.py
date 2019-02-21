@@ -52,4 +52,5 @@ print(sum(grades[0]) / len(grades[0]), sum(grades[1]) / len(grades[1]), sum(grad
 print(sum(grades[1]) / len(grades[1]))
 print(sum(grades[2]) / len(grades[2]))
 grades.append([94, 90, 96])
+# g = grades + [94, 90, 96]
 print(grades)
